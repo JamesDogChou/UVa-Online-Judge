@@ -1,5 +1,5 @@
 # UVa-Online-Judge
-#For ACM UVa Online Judge
+For ACM UVa Online Judge
 
 [UVa Online Judge](http://uva.onlinejudge.org/)
 
